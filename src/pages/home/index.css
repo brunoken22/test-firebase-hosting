@@ -1,0 +1,15 @@
+.home{
+   position: relative;
+   z-index: 10;
+}
+.gif{
+   background-image: url("https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bhhgyoi2brf2jwx6n1iddsbpfbkff9ngnzvcjkmj&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+   position: fixed;
+   bottom: 0;
+   right: 0;
+   top: 50px;
+   left: 0;
+   background-size: cover;
+   background-position: center;
+   z-index: 0;
+}

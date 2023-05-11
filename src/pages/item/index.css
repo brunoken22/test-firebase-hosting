@@ -1,0 +1,30 @@
+.contenedor{
+   min-width: 200px   ;
+   max-width: 500px   ;
+   margin: auto;
+   text-align: center;
+}
+
+
+.button {
+   border-radius: 25px;
+   border: 1px solid #e9e9e9;
+   font-size: 20px;
+}
+ 
+
+.image {
+   padding: 30px 40px;
+   width: 100%;
+   height: 380px;
+   border-radius: 10px;
+   object-fit: contain;
+ }
+ @media (min-width: 700px) {
+   .image {
+     padding: 30px 40px;
+     height: 380px;
+     border-radius: 10px;
+     object-fit: contain;
+   }
+ }
